@@ -5,4 +5,4 @@ baby dragon saves himself by jumping above using upward arrow key.As long as you
 dragon game will over and your score appear on screen.<br />
 
 
-I need help regarding this project, lots of issues are coming.. i am still working to find out the issue, if you help me to remove the bugs and make me to complete this project it will be good for me.
+### I need help regarding this project, lots of issues are coming.. i am still working to find out the issue, if you help me to remove the bugs and make me to complete this project it will be good for me.
